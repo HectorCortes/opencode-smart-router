@@ -1,0 +1,4 @@
+# Only the repository owner's review satisfies the required code-owner review.
+# External pull requests cannot be merged without an explicit approval from
+# the owner (branch protection: require code owner review, 1 approval).
+* @HectorCortes
